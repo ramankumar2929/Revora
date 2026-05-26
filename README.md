@@ -90,20 +90,34 @@ Designed with a clean futuristic UI, smooth interactions, dark/light mode, and r
 # 🎥 Project Demo
 
 ## Live Demo
-Add deployed link here
+ https://revora-roan.vercel.app/
 
 ## YouTube Walkthrough
-Add YouTube video link here
+https://youtu.be/w7MeFobpqOc
 
 ---
 
-# ⚙️ Installation
+ # ⚙️ Installation
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/ramankumar2929/Revora.git
+```
+
+Open the project folder:
+
+```bash
+cd Revora
+```
+
+Run the project:
+
+- Open `index.html`
+OR
+- Use Live Server extension in VS Code
  
+
 
 🧠 What I Learned:-
 While building Revora, I learned:
