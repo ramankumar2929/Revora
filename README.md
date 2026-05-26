@@ -131,7 +131,6 @@ Modular UI structuring
 GitHub REST API integration
 Real-world debugging & problem solving
 🌐 API Used
-
 GitHub REST API:
 
 https://api.github.com/
